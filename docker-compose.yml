@@ -71,4 +71,3 @@ services:
       retries: 10
 volumes:
   mongo-data:
-
